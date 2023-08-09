@@ -1,0 +1,14 @@
+Package: org.universe.testign
+Version: 1.0-4
+Section: Application
+Maintainer: Kamil <h2021mine@hotmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: Files//testign/com.universe.mvw_0.0.1-2+debug_iphoneos-arm.deb
+Size: 13590
+Installed-Size: 208
+MD5sum: 414cc104486feb11095841d462dacdd5
+Description: uhh
+Name: testign
+Author: wc25 <h2021mine@hotmail.com>
+Depiction: http://https://kamilthecitratester.github.io/cydia-repo/repo/Files/testign/index.html
